@@ -37,6 +37,10 @@ function total_Activities(){
 
 //Grades Functions
 
-function get_students(){
+function get_students(student_name){
+
+    return `
+    <div class="students-card"> </div
+    `
     
 }
