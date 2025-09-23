@@ -1,0 +1,13 @@
+h1, .nav-buttons{
+    font-family: Arial;
+}
+
+.student-card{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+
+.student-table{
+    border: 1px solid black;
+}
